@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Comfirmation>
+	<Cid N="0001">
+		<FirstName>Omotosho</FirstName>
+		<LastName>Daniel</LastName>
+		<Guests>3</Guests>
+		<StartDate>201504</StartDate>
+		<EndDate>201506</EndDate>
+		<ApartmentName>Night</ApartmentName>
+		<Bedrooms>2</Bedrooms>
+		<LivingRoom>Yes</LivingRoom>
+		<Bathrooms>3</Bathrooms>
+		<Catering>Yes</Catering>
+		<Price>300</Price>
+	</Cid>
+	<Cid N="0002">
+		<FirstName>Florence</FirstName>
+		<LastName>Darlington</LastName>
+		<Guests>6</Guests>
+		<StartDate>230519</StartDate>
+		<EndDate>300519</EndDate>
+		<ApartmentName>Yellow</ApartmentName>
+		<Bedrooms>4</Bedrooms>
+		<LivingRoom>Yes</LivingRoom>
+		<Bathrooms>4</Bathrooms>
+		<Catering>Yes</Catering>
+		<Price>500</Price>
+	</Cid>
+	<Cid N="0003">
+		<FirstName>Samson</FirstName>
+		<LastName>David</LastName>
+		<Guests>4</Guests>
+		<StartDate>250519</StartDate>
+		<EndDate>300519</EndDate>
+		<ApartmentName>Tigar</ApartmentName>
+		<Bedrooms>2</Bedrooms>
+		<LivingRoom>Yes</LivingRoom>
+		<Bathrooms>2</Bathrooms>
+		<Catering>Yes</Catering>
+		<Price>250</Price>
+	</Cid>
+	<Cid N="0004">
+		<FirstName>Seun</FirstName>
+		<LastName>Bankole</LastName>
+		<Guests>1</Guests>
+		<StartDate>120519</StartDate>
+		<EndDate>180519</EndDate>
+		<ApartmentName>Mama</ApartmentName>
+		<Bedrooms>1</Bedrooms>
+		<LivingRoom>Yes</LivingRoom>
+		<Bathrooms>1</Bathrooms>
+		<Catering>Yes</Catering>
+		<Price>100</Price>
+	</Cid>
+	<Cid N="0005">
+		<FirstName>Anu</FirstName>
+		<LastName>Davies</LastName>
+		<Guests>3</Guests>
+		<StartDate>300519</StartDate>
+		<EndDate>050619</EndDate>
+		<ApartmentName>Venus</ApartmentName>
+		<Bedrooms>2</Bedrooms>
+		<LivingRoom>Yes</LivingRoom>
+		<Bathrooms>1</Bathrooms>
+		<Catering>Yes</Catering>
+		<Price>200</Price>
+	</Cid>
+</Comfirmation>
+	

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Bungalows>
+	<Apartment id="000001">
+		<Name>Rag</Name>
+		<Price>100</Price>
+		<AStartDate>200519</AStartDate>
+		<AEndDate>300519</AEndDate>
+		<MaxGuests>2</MaxGuests>
+		<Bedrooms>1</Bedrooms>
+		<Bathrooms>1</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000002">
+		<Name>Yellow</Name>
+		<Price>500</Price>
+		<AStartDate>100519</AStartDate>
+		<AEndDate>250519</AEndDate>
+		<MaxGuests>6</MaxGuests>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>4</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000003">
+		<Name>Theo</Name>
+		<Price>450</Price>
+		<AStartDate>110519</AStartDate>
+		<AEndDate>230519</AEndDate>
+		<MaxGuests>4</MaxGuests>
+		<Bedrooms>3</Bedrooms>
+		<Bathrooms>2</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000004">
+		<Name>Max</Name>
+		<Price>350</Price>
+		<AStartDate>200519</AStartDate>
+		<AEndDate>300519</AEndDate>
+		<MaxGuests>5</MaxGuests>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000005">
+		<Name>Night</Name>
+		<Price>300</Price>
+		<AStartDate>150519</AStartDate>
+		<AEndDate>250519</AEndDate>
+		<MaxGuests>3</MaxGuests>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000006">
+		<Name>Mama</Name>
+		<Price>100</Price>
+		<AStartDate>02619</AStartDate>
+		<AEndDate>070619</AEndDate>
+		<MaxGuests>1</MaxGuests>
+		<Bedrooms>1</Bedrooms>
+		<Bathrooms>1</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000007">
+		<Name>Lion</Name>
+		<Price>400</Price>
+		<AStartDate>200519</AStartDate>
+		<AEndDate>020619</AEndDate>
+		<MaxGuests>6</MaxGuests>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000008">
+		<Name>Tigar</Name>
+		<Price>250</Price>
+		<AStartDate>240519</AStartDate>
+		<AEndDate>300519</AEndDate>
+		<MaxGuests>4</MaxGuests>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>2</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000009">
+		<Name>Venus</Name>
+		<Price>200</Price>
+		<AStartDate>250519</AStartDate>
+		<AEndDate>050619</AEndDate>
+		<MaxGuests>3</MaxGuests>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>1</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+	<Apartment id="000010">
+		<Name>True</Name>
+		<Price>400</Price>
+		<AStartDate>300519</AStartDate>
+		<AEndDate>150619</AEndDate>
+		<MaxGuests>6</MaxGuests>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>2</Bathrooms>
+		<LivingRoom>Yes</LivingRoom>
+	</Apartment>
+</Bungalows>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

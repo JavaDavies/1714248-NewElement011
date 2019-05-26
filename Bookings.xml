@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+	<Booking id="1000">
+		<FirstName>Omotosho</FirstName>
+		<LastName>Daniel</LastName>
+		<Guests>3</Guests>
+		<StartDate>201504</StartDate>
+		<EndDate>201506</EndDate>
+		<Catering>Yes</Catering>
+	</Booking>
+	<Booking id="2000">
+		<FirstName>Florence</FirstName>
+		<LastName>Darlington</LastName>
+		<Guests>6</Guests>
+		<StartDate>230519</StartDate>
+		<EndDate>300519</EndDate>
+		<Catering>Yes</Catering>
+	</Booking>
+	<Booking id="3000">
+		<FirstName>Samson</FirstName>
+		<LastName>David</LastName>
+		<Guests>4</Guests>
+		<StartDate>250519</StartDate>
+		<EndDate>300519</EndDate>
+		<Catering>Yes</Catering>
+	</Booking>
+	<Booking id="4000">
+		<FirstName>Seun</FirstName>
+		<LastName>Bankole</LastName>
+		<Guests>1</Guests>
+		<StartDate>120519</StartDate>
+		<EndDate>180519</EndDate>
+		<Catering>Yes</Catering>
+	</Booking>
+	<Booking id="5000">
+		<FirstName>Anu</FirstName>
+		<LastName>Davies</LastName>
+		<Guests>3</Guests>
+		<StartDate>300519</StartDate>
+		<EndDate>050619</EndDate>
+		<Catering>Yes</Catering>
+	</Booking>
+</Client>
